@@ -18,21 +18,18 @@ The following packages are required to run this app locally:
 1. Streamlit:
 
 ```
-
 pip install streamlit
 ```
 
 2. FPDF:
 
 ```
-
 pip install fpdf
 ```
 
 3. Google Generative AI:
 
 ``` 
-
 pip install google-generativeai
 ```
 
@@ -42,14 +39,12 @@ Follow the steps below to ensure that the project runs as intended locally:
 1. Clone the repo:
 
 ```
-
-git clone https://github.com/MM58-crypto/Book-recommender.git
+git clone https://github.com/MM58-crypto/CSBytes.git
 ```
 
 2. Inside the project directory, create a virtual environment by running the following command:
 
 ```
-
 python -m venv your_virtual_environment_name (e.g., env)
 ```
 
@@ -57,14 +52,12 @@ python -m venv your_virtual_environment_name (e.g., env)
 On Windows:
 
 ```
-
 .\env\Scripts\activate
 ```
 
 On macOS/Linux:
 
 ```
-
 source env/bin/activate
 ```
 
@@ -79,4 +72,5 @@ GEMINI_API_KEY = "YOUR_API_KEY"
 
 7. Run the app by using the following command in the terminal:
 streamlit run CS2.py
+
 ## Usage
