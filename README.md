@@ -1,6 +1,8 @@
 # CSBytes: Cheat Sheet Generator
 
-CSBytes is designed to generate cheat sheets based on user preferences and selections, whether it's for a programming language or a particular computer science topic.
+CSBytes is designed to generate cheat sheets based on user preferences and selections, whether it's for a programming language or a particular computer science topic. Powered by the advanced Gemini API, CSBytes delivers concise and tailored cheat sheets that users can easily download as PDF files. The application provides a user-friendly interface for seamless navigation and efficient cheat sheet generation.
+
+
 
 ## Features
 - Genre-Based Suggestions: Users can select specific programming languages or CS topics.
@@ -61,7 +63,7 @@ On macOS/Linux:
 source env/bin/activate
 ```
 
-4. Install the required packages from the Prerequisites section:
+4. Install the required packages from the <a href="#prerequisites"> section:
 
 5. Within the same directory, create a new file "config.py":
 
