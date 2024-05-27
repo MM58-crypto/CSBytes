@@ -1,3 +1,5 @@
+
+https://github.com/MM58-crypto/CSBytes/assets/62597737/61ded584-0b50-4e4f-9a4b-772f7c521a0f
 # CSBytes: Cheat Sheet Generator
 
 CSBytes is designed to generate cheat sheets based on user preferences and selections, whether it's for a programming language or a particular computer science topic. Powered by the advanced Gemini API, CSBytes delivers concise and tailored cheat sheets that users can easily download as PDF files. The application provides a user-friendly interface for seamless navigation and efficient cheat sheet generation.
@@ -75,4 +77,9 @@ GEMINI_API_KEY = "YOUR_API_KEY"
 7. Run the app by using the following command in the terminal:
 streamlit run CS2.py
 
+
 ## Usage
+
+
+https://github.com/MM58-crypto/CSBytes/assets/62597737/e8a04301-3bf7-490a-ae5a-a462aa601cb5
+
