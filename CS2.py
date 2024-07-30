@@ -3,11 +3,10 @@ import pathlib
 import textwrap
 import google.generativeai as genai
 import time
-import os
 #import config
 from fpdf import FPDF
 
-os.environ["gemini_key"] == st.secrets["gemini_api_key"] 
+gemini_key = st.secrets["gemini_api_key"] 
 #config.GEMINI_API_KEY
 genai.configure(api_key=gemini_key)
 model = genai.GenerativeModel('gemini-pro')
