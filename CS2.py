@@ -6,7 +6,8 @@ import time
 import config
 from fpdf import FPDF
 
-gemini_key = config.GEMINI_API_KEY
+gemini_key == st.secrets["gemini_api_key"] 
+#config.GEMINI_API_KEY
 genai.configure(api_key=gemini_key)
 model = genai.GenerativeModel('gemini-pro')
 
