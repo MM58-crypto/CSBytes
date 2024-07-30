@@ -3,7 +3,7 @@ import pathlib
 import textwrap
 import google.generativeai as genai
 import time
-import config
+#import config
 from fpdf import FPDF
 
 gemini_key == st.secrets["gemini_api_key"] 
