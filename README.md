@@ -12,7 +12,7 @@ CSBytes is designed to generate cheat sheets based on user preferences and selec
 - User-Friendly Interface: Easy to use and intuitive design.
 
 ## Try it out!
-![CSBytes](https://csbytes.streamlit.app/)
+[CSBytes](https://csbytes.streamlit.app/)
 
 ## Built With 
 - Streamlit
