@@ -11,8 +11,7 @@ CSBytes is designed to generate cheat sheets based on user preferences and selec
 - Downloadable PDFs: Generated sheets can be downloaded as PDF files.
 - User-Friendly Interface: Easy to use and intuitive design.
 
-## Try it out!
-[CSBytes](https://csbytes.streamlit.app/)
+
 
 ## Built With 
 - Streamlit
